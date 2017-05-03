@@ -23,21 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="205af820-8869-4b6e-b984-117cffae7856" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Calculator" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/CA_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CA.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CA/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CA/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CA/.idea/libraries/Maven__junit_junit_4_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CA/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CA/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/maven-archiver.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/runConfigurations/calculator.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CA/pom.xml" afterPath="$PROJECT_DIR$/CA/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CA/src/main/java/Calculator.java" afterPath="$PROJECT_DIR$/CA/src/main/java/Calculator.java" />
     </list>
     <ignored path="$PROJECT_DIR$/CA/target/" />
@@ -65,6 +53,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <push-targets>
+      <push-target-info target-remote="origin" target-branch="testbranch" repo="$PROJECT_DIR$" source="testbranch" />
+    </push-targets>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -164,11 +155,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
-  </component>
-  <component name="Push.Settings">
-    <excluded-roots>
-      <path value="$PROJECT_DIR$" />
-    </excluded-roots>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -407,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493419287097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Merge branch 'master' of https://github.com/RyanC30/Calculator into testbranch&#10;&#10;# Conflicts:&#10;#&#9;.idea/.name&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;CA/src/main/java/Calculator.java">
+      <created>1493848778938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493848778939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -460,7 +453,8 @@
       <path value="C:\Users\ryanc\IdeaProjects\DevOps\CA" />
     </ignored-roots>
     <MESSAGE value="Updated Main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Main method" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/RyanC30/Calculator into testbranch&#10;&#10;# Conflicts:&#10;#&#9;.idea/.name&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;CA/src/main/java/Calculator.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/RyanC30/Calculator into testbranch&#10;&#10;# Conflicts:&#10;#&#9;.idea/.name&#10;#&#9;.idea/misc.xml&#10;#&#9;.idea/vcs.xml&#10;#&#9;CA/src/main/java/Calculator.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
